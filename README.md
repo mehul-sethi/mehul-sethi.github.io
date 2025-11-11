@@ -5,7 +5,7 @@
 
   <strong>Software Engineer</strong> | Full Stack Development | Cloud & DevOps
 
-  📍 Munich, Germany | 💼 AutoScout24 | 🚀 7+ Years Experience
+  📍 Munich, Germany | 💼 AutoScout24 | 🚀 8+ Years Experience
 </div>
 
 ---
@@ -39,13 +39,9 @@ View my complete professional background and experience:
 
 ### Technologies & Tools
 
-**Languages:** Python, JavaScript, TypeScript, Java, Go
-**Frontend:** React, Vue.js, Angular, HTML5, CSS3
-**Backend:** Node.js, Express, Django, Spring Boot
-**Cloud:** AWS, Azure, Google Cloud Platform
-**DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions, Terraform
-**Databases:** PostgreSQL, MongoDB, Redis, MySQL
+**Languages:** Java, Scala, Typescript
+**Backend:** Spring Boot, Play
+**Frontend:** React
+**Cloud:** AWS, Google Cloud Platform
 
 ---
-
-*This repository serves as my professional portfolio and GitHub Pages site.*
