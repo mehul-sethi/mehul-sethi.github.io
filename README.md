@@ -1,9 +1,9 @@
 <div align="center">
   <img src="profile.jpg" alt="Mehul Sethi" width="200" style="border-radius: 50%;">
 
-  # Mehul Sethi
+  <h1>Mehul Sethi</h1>
 
-  **Software Engineer** | Full Stack Development | Cloud & DevOps
+  <strong>Software Engineer</strong> | Full Stack Development | Cloud & DevOps
 
   📍 Munich, Germany | 💼 AutoScout24 | 🚀 7+ Years Experience
 </div>
