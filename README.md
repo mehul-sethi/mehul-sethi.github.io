@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a passionate Software Engineer with 7+ years of experience building scalable, robust applications across the full technology stack. Currently working at **AutoScout24** in Munich, Germany, I specialize in backend services, modern frontend experiences, and cloud infrastructure with a strong focus on DevOps practices.
+I'm a passionate Software Engineer with 8+ years of experience building scalable, robust applications across the full technology stack. Currently working at **AutoScout24** in Munich, Germany, I specialize in backend services, modern frontend experiences, and cloud infrastructure with a strong focus on DevOps practices.
 
 ## Technical Expertise
 
