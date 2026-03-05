@@ -20,7 +20,7 @@ Senior Software Engineer with 8+ years of experience building scalable, robust a
 |---------|------|----------|
 | **AutoScout24** | Senior Software Engineer | Munich, Germany |
 | **PAYBACK** | Software Engineer | Munich, Germany |
-| **HubSpot** | Software Engineer | Dublin, Ireland |
+| **HubSpot** | Software Engineer | Munich, Germany |
 | **Siemens** | Full Stack Developer | Munich, Germany |
 | **ClearTax** | Software Development Engineer | Bengaluru, India |
 | **Cisco Systems** | Software Engineer Intern | Bengaluru, India |
@@ -37,12 +37,12 @@ Senior Software Engineer with 8+ years of experience building scalable, robust a
 
 - ☁️ Google Cloud Professional Cloud Architect
 - 🔷 Microsoft Azure Fundamentals (AZ-900)
-- ☕ Oracle Certified Professional Java SE 11
-- 🇩🇪 Telc Deutsch B2
+- ☕ Oracle Certified Professional Java SE 8
+- 🇩🇪 Telc Deutsch B1
 
 ## Features
 
-- 🎨 **Cosmic Orange theme** inspired by iPhone 17 Pro
+- 🎨 **Cosmic Orange theme** 
 - 🌙 **Dark mode** with toggle and system preference detection
 - 📱 **Responsive** design for all screen sizes
 - 📄 Single-file architecture (`index.html` with inline CSS/JS)
