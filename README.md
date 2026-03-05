@@ -3,7 +3,7 @@
 
   <h1>Mehul Sethi</h1>
 
-  <strong>Software Engineer</strong> | Full Stack Development | Cloud & DevOps
+  <strong>Senior Software Engineer</strong> | Full Stack Development | Cloud & DevOps
 
   📍 Munich, Germany | 💼 AutoScout24 | 🚀 8+ Years Experience
 </div>
@@ -12,36 +12,56 @@
 
 ## About Me
 
-I'm a passionate Software Engineer with 8+ years of experience building scalable, robust applications across the full technology stack. Currently working at **AutoScout24** in Munich, Germany, I specialize in backend services, modern frontend experiences, and cloud infrastructure with a strong focus on DevOps practices.
+Senior Software Engineer with 8+ years of experience building scalable, robust applications across the full technology stack. Currently working at **AutoScout24** in Munich, Germany, specializing in backend services, modern frontend experiences, and cloud infrastructure with a strong focus on DevOps practices.
 
-## Technical Expertise
+## Experience
 
-### Backend Development
-Building robust server-side applications, RESTful APIs, microservices architecture, and database design.
+| Company | Role | Location |
+|---------|------|----------|
+| **AutoScout24** | Senior Software Engineer | Munich, Germany |
+| **PAYBACK** | Software Engineer | Munich, Germany |
+| **HubSpot** | Software Engineer | Dublin, Ireland |
+| **Siemens** | Full Stack Developer | Munich, Germany |
+| **ClearTax** | Software Development Engineer | Bengaluru, India |
+| **Cisco Systems** | Software Engineer Intern | Bengaluru, India |
 
-### Frontend Development
-Creating responsive, user-centric web applications with modern frameworks and best practices.
+## Tech Stack
 
-### Cloud & DevOps
-Designing and implementing cloud infrastructure, CI/CD pipelines, containerization, and automated deployment strategies.
+**Languages:** Java, Scala, TypeScript, Python, JavaScript, SQL  
+**Backend:** Spring Boot, Play Framework, Node.js, Akka  
+**Frontend:** React, Next.js, HTML/CSS  
+**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Terraform, Datadog  
+**Databases:** PostgreSQL, DynamoDB, Elasticsearch, Redis, MongoDB
+
+## Certifications
+
+- ☁️ Google Cloud Professional Cloud Architect
+- 🔷 Microsoft Azure Fundamentals (AZ-900)
+- ☕ Oracle Certified Professional Java SE 11
+- 🇩🇪 Telc Deutsch B2
+
+## Features
+
+- 🎨 **Cosmic Orange theme** inspired by iPhone 17 Pro
+- 🌙 **Dark mode** with toggle and system preference detection
+- 📱 **Responsive** design for all screen sizes
+- 📄 Single-file architecture (`index.html` with inline CSS/JS)
+- ⚡ No build step — static site deployed via GitHub Pages
+
+## Development
+
+```bash
+# Run locally
+python3 -m http.server 8000
+# Open http://localhost:8000
+```
 
 ## Resume
 
-View my complete professional background and experience:
-
 **[Download Resume (PDF)](./Mehul_CV.pdf)**
 
-## Connect With Me
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul712/)
-
----
-
-### Technologies & Tools
-
-**Languages:** Java, Scala, Typescript
-**Backend:** Spring Boot, Play
-**Frontend:** React
-**Cloud:** AWS, Google Cloud Platform
 
 ---
