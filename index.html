@@ -697,8 +697,10 @@
     <script>
         (function() {
             var toggle = document.getElementById('themeToggle');
+            if (!toggle) return;
             var html = document.documentElement;
-            var stored = localStorage.getItem('theme');
+            var stored = null;
+            try { stored = localStorage.getItem('theme'); } catch (e) {}
             var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
             var theme = stored || (prefersDark ? 'dark' : 'light');
 
@@ -716,7 +718,7 @@
 
             toggle.addEventListener('click', function() {
                 theme = html.hasAttribute('data-theme') ? 'light' : 'dark';
-                localStorage.setItem('theme', theme);
+                try { localStorage.setItem('theme', theme); } catch (e) {}
                 apply(theme);
             });
         })();
